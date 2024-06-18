@@ -24,8 +24,8 @@ This is a simple Python application with a GUI interface to calculate the number
 1. Clone the repository or download the script file.
 
     ```sh
-    git clone https://github.com/yourusername/token-pool-calculator.git
-    cd token-pool-calculator
+    git clone https://github.com/michals0snowski/Liquidity_Pool_Calc-python.git
+    cd Liquidity_Pool_Calc-python
     ```
 
 2. Ensure you have Python 3.x installed. You can download it from [python.org](https://www.python.org/).
@@ -41,7 +41,7 @@ This is a simple Python application with a GUI interface to calculate the number
 1. Run the script using Python.
 
     ```sh
-    python token_pool_calculator.py
+    python LiquidityPoolCalcUI.py
     ```
 
 2. The main window will appear, allowing you to input the necessary data:
